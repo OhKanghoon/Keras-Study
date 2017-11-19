@@ -1,6 +1,6 @@
 # Keras Study
 
-**참고링크 :** [딥러닝 CodeLab](https://codeonweb.com/course/1ce2938f-aefb-4073-ac5f-cd5c314a8f57 “제로ㅔㅇ서 시작하는 딥러닝”)
+**참고링크 :** [딥러닝 CodeLab](https://codeonweb.com/course/1ce2938f-aefb-4073-ac5f-cd5c314a8f57 "Deep Learning CodeLab")
 
 1. 제로에서 시작하는 딥러닝
 2. 보스턴 집값 예측하기
